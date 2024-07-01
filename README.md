@@ -11,22 +11,22 @@ Most people rely on another reference manager (e.g. Zotero, Jabref) in order to 
 
 # Roadmap
 *Milestone 1: Index Cards*
-[ ] 0.0.1 Define Index Card Schemas based on CSL-JSON; set up Obsidian tempaltes for these schemas.
-[ ] 0.0.5 Function to one-time import CSL-JSON into Obsidian, with each page representing an reference and all pages residing in an Index Card folder.  
+- [ ] 0.0.1 Define Index Card Schemas based on CSL-JSON; set up Obsidian tempaltes for these schemas.
+- [ ] 0.0.5 Function to one-time import CSL-JSON into Obsidian, with each page representing an reference and all pages residing in an Index Card folder.  
   (At this stage I don't want to worry about resolving conficts with existing pages. I want to get to the next steps more quickly, so this is just for one-time set up so I have some data to work with.)
-0.1.0 Build up a basic, view-only reference manager UI within Obsidian.
+- [ ] 0.1.0 Build up a basic, view-only reference manager UI within Obsidian.
 
 *Milestone 2: Citation*
-[ ] 0.1.5 Develop a very basic citation tool for people to easily query and insert citation as they write.
-[ ] 0.2.0 Ability to export references to CSL-JSON.
+- [ ] 0.1.5 Develop a very basic citation tool for people to easily query and insert citation as they write.
+- [ ] 0.2.0 Ability to export references to CSL-JSON.
 
 *Milestone 3: Reference Manager UI*
-[ ] 0.3.0 Make the UI fully interactive and editable.
-[ ] Maybe more advanced support for folders/categories/tags?
+- [ ] 0.3.0 Make the UI fully interactive and editable.
+- [ ] Maybe more advanced support for folders/categories/tags?
 
 *Beta 1: More features, Refinements, and Bug-Fixes*
-[ ] 0.4.5 Write a user guide; list prerequisites and incompatiblities/conflict with other plugins.
-[ ] 0.5.0 Publish to Obsidian Community Plugin Store.
+- [ ] 0.4.5 Write a user guide; list prerequisites and incompatiblities/conflict with other plugins.
+- [ ] 0.5.0 Publish to Obsidian Community Plugin Store.
 
 *Beta 2: More features, Refinements, and Bug-Fixes*
 
