@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-reference-manager",
+	"name": "Obsidian Reference Manager",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Why use another reference manager if everything can be done within Obsidian?",
+	"author": "Yujia (Sam) Zhai",
+	"authorUrl": "https://hermeneuticlens.com",
+	"fundingUrl": "https://hermeneuticlens.com",
+	"isDesktopOnly": true
+}
