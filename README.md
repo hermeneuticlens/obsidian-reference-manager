@@ -13,11 +13,12 @@ Most people rely on another reference manager (e.g. Zotero, Jabref) in order to 
 *Milestone 1: Index Cards*
 - [ ] 0.0.1 Define Index Card Schemas based on CSL-JSON; set up Obsidian tempaltes for these schemas.
 - [ ] 0.0.5 Function to one-time import CSL-JSON into Obsidian, with each page representing an reference and all pages residing in an Index Card folder.  
-  (At this stage I don't want to worry about resolving conficts with existing pages. I want to get to the next steps more quickly, so this is just for one-time set up so I have some data to work with.)
+      (At this stage I don't want to worry about resolving conficts with existing pages. I want to get to the next steps more quickly, so this is just for one-time set up so I have some data to work with.)
 - [ ] 0.1.0 Build up a basic, view-only reference manager UI within Obsidian.
 
 *Milestone 2: Citation*
 - [ ] 0.1.5 Develop a very basic citation tool for people to easily query and insert citation as they write.
+      An importnat part of this is to decide how to provide the best featuers within Obsidian while making the file still readable as a Markdown file, both for human reading and for other processors such as Pandoc Citeproc.
 - [ ] 0.2.0 Ability to export references to CSL-JSON.
 
 *Milestone 3: Reference Manager UI*
