@@ -21,12 +21,12 @@ Most people rely on another reference manager (e.g. Zotero, Jabref) in order to 
 - 0.2.0 Ability to export references to CSL-JSON.
 
 *Milestone 3: Reference Manager UI*
-- Make the UI fully interactive and editable.
+- 0.3.0 Make the UI fully interactive and editable.
 - Maybe more advanced support for folders/categories/tags?
 
-*Beta 1: Refinements & Bug-Fixes*
+*Beta 1: More features, Refinements, and Bug-Fixes*
 
-*Beta 2: Refinements & Bug-Fixes*
+*Beta 2: More features, Refinements, and Bug-Fixes*
 
 *Release Candidate: Additional Features*
 Under consideration:
