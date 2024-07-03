@@ -1,8 +1,6 @@
 import { App, Vault, Editor, MarkdownView, Modal, SuggestModal, Notice, Plugin,
 	PluginSettingTab, Setting } from 'obsidian';
 
-const {app, vault} = require('obsidian');
-
 interface ORM_Settings {
 	reference_root_folder: string;
 }
