@@ -38,6 +38,7 @@ Under consideration:
 # Notes and Considerations
 **Development Priorities and Constraints**
 In order to facilitate the development of this plugin, I will first build it according to my needs. I do research in the field of humanities and use Chicago Manual of Styles, so features suiting my needs will be prioritized. My apologzies for not having the knowledge or resoruce for other citation styles and use cases.
+
 **CSL vs BibLaTeX**
 CSL seems to be neater in terms of its schema. For example, it handles author's name by breaking it down to "given" "family" and "suffix" fields, with the alternative of "literal" field for institutional other special names. However, CSL is evolving, and potential changes, as suggested by [this debate over "title-short"](https://github.com/citation-style-language/schema/pull/393), needs to be dealt with.
 
