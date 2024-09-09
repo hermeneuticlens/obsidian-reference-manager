@@ -1,6 +1,8 @@
 # Obsidian Reference Manager
 Most people rely on another reference manager (e.g. Zotero, Jabref) in order to cite in Obsidian. However, not only are the syncing process cluncky and unreliable, but the reference data are also not directly accessible to Obsidian users for customized query. After reviewing the documentations, I think that Obsidian can totally be its own reference manager, and one even more powerful and well integrated into an academic workflow. The current project serves to validate this hypothesis.
 
+See [this post](https://www.reddit.com/r/ObsidianMD/comments/1azrfya/obsidian_should_swallow_zotero/) for others sharing similar sentiments.
+
 # Features and Design Goals
 - Each reference entry has its own Markdown file, like an index card, where reference data is stored in the frontmatter of a file. This way, the reference data can be directly accessible to users who want to conduct customized operations on them, such as Dataview/Datacore queries. This also frees users form the burden of manually managing and coordinating between index card and reference data, as in the case of using a separate reference manager app.
 - Reference data must be stored in a format that balances programming utility and human readability, since one of the benefits of putting reference data in the file's frontmatter is making the data available to users, while providing the functionality of exporting the data to industry standards (e.g. CSL-JSON) to work with other refernece manger apps and reference processors (e.g. pandoc citeproc).
